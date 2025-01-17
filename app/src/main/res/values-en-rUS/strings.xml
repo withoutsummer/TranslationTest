@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Translation Test</string>
+    <string name="login_page_title">Log in to Olive Young</string>
+    <string name="login_page_subtitle">To enjoy benefits and services at Olive Young,\n please log in.</string>
+    <string name="login_page_google_btn">Continue with Google</string>
+    <string name="login_page_kakao_btn">Continue with Kakao</string>
+    <string name="login_page_translation_korean_btn">korean</string>
+    <string name="login_page_translation_english_btn">english</string>
+</resources>

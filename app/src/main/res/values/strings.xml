@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Translation</string>
+    <string name="toolbar_title" translatable="false">Login</string>
+    <string name="login_page_title">올리브영 로그인</string>
+    <string name="login_page_subtitle">올리브영에서 혜택과 서비스를 누리기 위해서,\n 로그인을 해주세요.</string>
+    <string name="login_page_google_btn">구글로 로그인</string>
+    <string name="login_page_kakao_btn">카카오로 로그인</string>
+    <string name="login_page_translation_korean_btn">한국어</string>
+    <string name="login_page_translation_english_btn">영어</string>
+</resources>
